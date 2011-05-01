@@ -1,0 +1,4 @@
+*.sdf
+vc10/Release
+vc10/Debug
+vc10/ipch
